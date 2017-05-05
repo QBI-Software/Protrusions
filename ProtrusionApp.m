@@ -6,7 +6,9 @@
 % Requires:
 %   Matlab Image Processing Toolbox
 %   Matlab Statistics Toolbox
-%   Skeleton package
+%   Skeleton package from https://au.mathworks.com/matlabcentral/fileexchange/11123-better-skeletonization
+%   - to install type: mex Skeleton/skeleton.cpp
+% you may need to initialize the mex compiler in Matlab first with "mex -setup"
 % 
 % Code and further information is available at : 
 %       https://github.com/QBI-Software
