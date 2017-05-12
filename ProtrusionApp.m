@@ -11,13 +11,23 @@
 % you may need to initialize the mex compiler in Matlab first with "mex -setup"
 % 
 % Code and further information is available at : 
-%       https://github.com/QBI-Software
+%       https://github.com/QBI-Software/Protrusions
 % Please see Instructions for Usage at :
-%       https://github.com/QBI-Software
-% 
-% Developed by Liz Cooper-Williams, QBI (e.cooperwilliams@uq.edu.au)
-% April 2017
+%       https://github.com/QBI-Software/Protrusions
 %
+% Developer: Liz Cooper-Williams,e.cooperwilliams@uq.edu.au
+% 
+%    Licensed under the Apache License, Version 2.0 (the "License");
+%    you may not use this file except in compliance with the License.
+%    You may obtain a copy of the License at
+% 
+%        http://www.apache.org/licenses/LICENSE-2.0
+% 
+%    Unless required by applicable law or agreed to in writing, software
+%    distributed under the License is distributed on an "AS IS" BASIS,
+%    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+%    See the License for the specific language governing permissions and
+%    limitations under the License.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function ProtrusionApp()
