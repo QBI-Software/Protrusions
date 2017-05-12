@@ -16,6 +16,7 @@
 %       https://github.com/QBI-Software/Protrusions
 %
 % Developer: Liz Cooper-Williams,e.cooperwilliams@uq.edu.au
+% Copyright (2017) QBI Software, The University of Qld 
 % 
 %    Licensed under the Apache License, Version 2.0 (the "License");
 %    you may not use this file except in compliance with the License.
